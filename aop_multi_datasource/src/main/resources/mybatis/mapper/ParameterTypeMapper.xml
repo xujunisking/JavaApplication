@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cme.education.dao.base.ParameterTypeMapper">
+    <select id="getParameterTypeInfo" resultType="com.cme.education.bean.base.ParameterType">
+        select * from com_parameter_type
+    </select>
+
+    <select id="findParameterType" parameterType="int" resultType="com.cme.education.bean.base.ParameterType">
+        select * from com_parameter_type where parameter_type_id=#{ParameterTypeID}
+    </select>
+
+    <select id="getTypeInfoByPage" resultType="com.cme.education.bean.base.ParameterType">
+        select * from com_parameter_type
+    </select>
+</mapper>
