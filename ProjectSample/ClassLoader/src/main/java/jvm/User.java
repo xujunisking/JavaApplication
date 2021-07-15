@@ -19,6 +19,7 @@ public class User {
     public void setName(String name) {this.name = name;}
     @Override
     protected  void finalize() throws Throwable {
+        //OOMTest.list.add(this);//对象自救，避免被GC
         System.out.println("关闭资源，user" + id + "即将被回收");
     }
 

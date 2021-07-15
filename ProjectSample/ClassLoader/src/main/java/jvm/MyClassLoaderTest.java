@@ -37,6 +37,8 @@ public class MyClassLoaderTest {
         MyClassLoader classLoader = new MyClassLoader("D:/test");
         Class clazz = classLoader.loadClass("jvm.User1");
         Object obj = clazz.newInstance();
+//        Class<?> a1 = Class.forName("jvm.User1");
+//        User1 user2 = (User1)a1.newInstance();
         Method method= clazz.getDeclaredMethod("sout", null);
         method.invoke(obj, null);
         System.out.println(clazz.getClassLoader().getClass().getName());
