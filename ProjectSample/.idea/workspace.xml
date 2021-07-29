@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8875e11d-b060-42d7-a05b-3a2765b314fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ClassLoader/src/main/java/jvm/DeadLockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassLoader/src/main/java/jvm/HeapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassLoader/src/main/java/spi/ExcelParse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassLoader/src/main/java/spi/IParseDOC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassLoader/src/main/java/spi/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassLoader/src/main/java/spi/WordParse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassLoader/src/main/resources/META-INF/services/spi.iParseDoc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClassLoader/target/classes/jvm/MyClassLoaderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ClassLoader/target/classes/jvm/MyClassLoaderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClassLoader/target/classes/jvm/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/ClassLoader/target/classes/jvm/User.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,55 +23,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ClassLoader/src/main/java/spi/ExcelParse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-              <folding>
-                <element signature="e#78#79#0" expanded="true" />
-                <element signature="e#124#125#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ClassLoader/src/main/java/spi/WordParse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="22" />
-              <folding>
-                <element signature="e#98#99#0" expanded="true" />
-                <element signature="e#119#120#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ClassLoader/src/main/java/spi/MainClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ClassLoader/src/main/resources/META-INF/services/spi.iParseDoc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -126,7 +69,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-432" />
     <option name="y" value="69" />
     <option name="width" value="1119" />
@@ -138,14 +81,58 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="SampleTemplate" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProjectSample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SampleTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectSample" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassLoader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SampleTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectSample" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassLoader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SampleTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectSample" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassLoader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SampleTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectSample" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassLoader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SampleTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectSample" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassLoader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jvm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SampleTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectSample" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassLoader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spi" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -286,6 +273,7 @@
       <workItem from="1626587389243" duration="2440000" />
       <workItem from="1626655681934" duration="1161000" />
       <workItem from="1627380000762" duration="5476000" />
+      <workItem from="1627527640041" duration="738000" />
     </task>
     <task id="LOCAL-00001" summary="Scheduled">
       <created>1625707166307</created>
@@ -305,12 +293,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33745000" />
+    <option name="totallyTimeSpent" value="34483000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19159256" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19482619" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -507,10 +495,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ClassLoader/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ClassLoader/src/main/resources/META-INF/services/spi.iParseDoc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassLoader/src/main/java/spi/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -527,29 +532,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ClassLoader/src/main/java/spi/ExcelParse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
+        <state relative-caret-position="76">
           <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#78#79#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassLoader/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassLoader/src/main/java/spi/MainClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
