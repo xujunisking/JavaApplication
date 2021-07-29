@@ -1,0 +1,3 @@
+#需要加载的类
+spi.WordParse
+spi.ExcelParse
